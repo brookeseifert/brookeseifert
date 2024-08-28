@@ -1,5 +1,5 @@
 -  Hello there! I’m Brooke Seifert (@brookeseifert)
--  I’m interested in expanding my knowledge and woeking with others to do so. 
+-  I’m interested in expanding my knowledge and working with others to do so. 
 -  I’m currently learning C ++, but have a background in Python. 
 -  I am a computer science student at the Univeristy of Colorado Boulder -- Sko Buffs!
 
